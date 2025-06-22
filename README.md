@@ -27,6 +27,18 @@
 
 **开发者：[wink-wink-wink555](https://github.com/wink-wink-wink555)**
 
+## 🗺️ 景点连通图可视化
+
+下图展示了系统中30个上海景点的地理分布和连通路线关系：
+
+<div align="center">
+  <img src="img/tour-graph.png" alt="上海景点连通路线分布图" width="800">
+  <br>
+  <em>上海景点与连通路线分布图</em>
+</div>
+
+> 📍 此图显示了项目中包含的所有景点位置以及它们之间的交通连接关系，为路径规划算法提供了可视化的数据基础。
+
 ## 功能特性
 
 ### 🔍 景点查询
@@ -339,6 +351,8 @@ shanghai_tour_guide/
 ├── lib/                          # 依赖库目录
 │   ├── README.md                     # 依赖库说明
 │   └── mysql-connector-java-*.jar   # MySQL JDBC驱动
+├── img/                          # 项目图片资源
+│   └── tour-graph.png                # 景点连通路线分布图
 ├── .gitignore                    # Git忽略文件
 ├── LICENSE                       # MIT许可证
 ├── README.md                     # 项目说明文档

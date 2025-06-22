@@ -1,1 +1,0 @@
-# shanghai_tour_guide

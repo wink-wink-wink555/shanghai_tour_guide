@@ -45,12 +45,6 @@
   - 语义化版本规范
   - 发布说明模板
 
-### 🗂️ GitHub模板文件
-
-- [x] **.github/ISSUE_TEMPLATE/bug_report.md** - Bug报告模板
-- [x] **.github/ISSUE_TEMPLATE/feature_request.md** - 功能请求模板
-- [x] **.github/pull_request_template.md** - PR模板
-
 ### 📚 文档改进
 
 - [x] **test_data_consistency.md** - 测试文档 (已优化)
@@ -80,7 +74,7 @@ git commit -m "feat: 初始开源版本
 - 优化gitignore配置"
 
 # 添加远程仓库
-git remote add origin https://github.com/your-username/shanghai_tour_guide.git
+git remote add origin https://github.com/wink-wink-wink555/shanghai_tour_guide.git
 
 # 推送到GitHub
 git push -u origin main
